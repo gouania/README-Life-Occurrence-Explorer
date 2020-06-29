@@ -48,11 +48,14 @@ Life Occurrence Explorer brings together data from the biggest database of biolo
 5. Individual records can be selected on the map for more information
 6. The Summary table gives the list of species with their number of occurrences and a link to images to help with identifications
 7. The "Records" tab provides information for each individual record and a link to the full occurrence details on GBIF
-8. Both Summary and Records data can be downloaded as a CSV file
+8. By clicking on a record in the table, the map automatically zooms to that observation 
+9. Both Summary and Records data can be downloaded as a CSV file
 
 ### Example
 ##### Plants of the nightshade family (Solanaceae) occurring on the island of Corsica
 ![Solanaceae in Corsica](/images/LifeOccurrenceExample.gif "Solanaceae in Corsica")
+
+[https://youtu.be/ivQGk6uAwfk](A 2-minute video) presenting the tool is also available on YouTube
 
 ------
 
