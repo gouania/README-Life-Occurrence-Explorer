@@ -46,7 +46,7 @@ Life Occurrence Explorer brings together data from the biggest database of biolo
 3. Enter the scientific name of an organism. Again this can be broad ("Animalia", "Mammalia", "Plantae", Aves", "Coleoptera") or more specific ("Nymphalidae", "Asteraceae", "Asplenium trichomanes subsp. quadrivalens")
 4. Searching a locality returns all occurrences within the smallest rectangle containing the entire locality. The size of the rectangle can be adjusted in "Options".
 5. Individual records can be selected on the map for more information
-6. If you do not get results, check the "Name suggestions tab". Perhaps there are several taxa that have the same name. Pick a correct one.
+6. If you do not get results, check the "Name suggestions tab". Perhaps there are several taxa that have a similar name. Pick a correct one.
 7. The Summary table gives the list of species with their number of occurrences and a link to images to help with identifications
 8. The "Records" tab provides information for each individual record and a link to the full occurrence details on GBIF
 9. Both Summary and Records data can be downloaded as a CSV file
