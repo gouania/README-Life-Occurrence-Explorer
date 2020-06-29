@@ -55,7 +55,7 @@ Life Occurrence Explorer brings together data from the biggest database of biolo
 ##### Plants of the nightshade family (Solanaceae) occurring on the island of Corsica
 ![Solanaceae in Corsica](/images/LifeOccurrenceExample.gif "Solanaceae in Corsica")
 
-[https://youtu.be/ivQGk6uAwfk](A 2-minute video) presenting the tool is also available on YouTube
+[A 2-minute video](https://youtu.be/ivQGk6uAwfk) presenting the tool is also available on YouTube
 
 ------
 
