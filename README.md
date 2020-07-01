@@ -70,6 +70,12 @@ Life Occurrence Explorer stands on the shoulders of the thousands of people who 
 
 ------
 
+## Acknowledgements
+
+Special thanks to Scott Chamberlain, co-founder of [rOpenSci](https://ropensci.org/), who created the [rgbif](https://cran.r-project.org/web/packages/rgbif/index.html) and [taxize](https://cran.r-project.org/web/packages/taxize/index.html), two very helpful packages that make this app work, and to Martijn Tennekes, creator of [tmaptools](https://cran.r-project.org/web/packages/tmaptools/index.html).
+
+------
+
 ## Participate
 
 Life Occurrence Explorer is a free tool for the benefit of all nature lovers, students and teachers, and scientists. Help to add features that would improve it would be greatly appreciated.
