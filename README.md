@@ -44,12 +44,17 @@ Life Occurrence Explorer brings together data from the biggest database of biolo
 1. Visit [gouania.shinyapps.io/occurrenceexplorer/](https://gouania.shinyapps.io/occurrenceexplorer/)
 2. Enter the name of a locality. This can be broad (e.g. "Europe", "Oregon") or local ("London", "Hampstead Heath"). 
 3. Enter the scientific name of an organism. Again this can be broad ("Animalia", "Mammalia", "Plantae", Aves", "Coleoptera") or more specific ("Nymphalidae", "Asteraceae", "Asplenium trichomanes subsp. quadrivalens")
-4. Searching a locality returns all occurrences within the smallest rectangle containing the entire locality. The size of the rectangle can be adjusted in "Options".
-5. Individual records can be selected on the map for more information
-6. The Summary table gives the list of species with their number of occurrences and a link to images to help with identifications
-7. The "Records" tab provides information for each individual record and a link to the full occurrence details on GBIF
-8. By clicking on a record in the table, the map automatically zooms to that observation 
-9. Both Summary and Records data can be downloaded as a CSV file
+
+* A vernacular to scientific name search tool is included at the bottom of the main panel for users who do not know the scientific name of the organisms they would like to search for
+* A scientific to vernacular name search tool is also included. Vernacular/scientific searches query the [Encyclopedia of Life's](https://eol.org/) database of names
+* Searching a locality returns all occurrences within the smallest rectangle containing the entire locality. The size of the rectangle can be adjusted in "Options"
+* Individual records can be selected on the map for more information
+* The Summary table gives the list of species with their number of occurrences and a link to images to help with identifications
+* The "Records" tab provides information for each individual record and a link to the full occurrence details on GBIF
+* By clicking on a record in the table, the map automatically zooms to that observation 
+* Both Summary and Records data can be downloaded as a CSV file
+* Name and Locality search results are listed below the Summary and Record table to help in case there are no occurrence results
+
 
 ### Example
 ##### Plants of the nightshade family (Solanaceae) occurring on the island of Corsica
