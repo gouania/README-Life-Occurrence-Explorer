@@ -28,7 +28,7 @@ It can therefore be used to learn and teach about nature, for citizen science an
 ### List of birds occurring in Hyde Park
 ![List of birds occurring in Hyde Park](/images/SummaryHydePark.jpg "List Hyde Park")
 
-Life Occurrence Explorer brings together data from the biggest database of biological occurrence records [(GBIF)](https://www.gbif.org/what-is-gbif) and from the biggest collaborative geographical information project [(OpenStreetMap)](https://www.openstreetmap.org/) with its associated geocoding tool [Nominatim](https://wiki.openstreetmap.org/wiki/Nominatim). This enables users to explore the occurrence of living organisms on Earth in more detail and more interactively than ever before. 
+Life Occurrence Explorer brings together data from the biggest database of biological occurrence records [(GBIF)](https://www.gbif.org/what-is-gbif) and from the biggest collaborative geographical information project ([OpenStreetMap](https://www.openstreetmap.org/) and its associated geocoding tool [Nominatim](https://wiki.openstreetmap.org/wiki/Nominatim)). This enables users to explore the occurrence of living organisms on Earth in more detail and more interactively than ever before. 
 
 * An interactive map shows where the organisms occur
 * Species are listed by most to less frequent at the specified locality to facilitate identifications
