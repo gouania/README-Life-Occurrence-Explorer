@@ -46,7 +46,6 @@ Life Occurrence Explorer brings together data from the biggest database of biolo
 3. Enter the scientific name of an organism. Again this can be broad ("Animalia", "Mammalia", "Plantae", Aves", "Coleoptera") or more specific ("Nymphalidae", "Asteraceae", "Asplenium trichomanes subsp. quadrivalens")
 
 * A vernacular to scientific name search tool is included at the bottom of the main panel for users who do not know the scientific name of the organisms they would like to search for
-* A scientific to vernacular name search tool is also included. Vernacular/scientific searches query the [Encyclopedia of Life's](https://eol.org/) database of names
 * Searching a locality returns all occurrences within the smallest rectangle containing the entire locality. The size of the rectangle can be adjusted in "Options"
 * Results are limited to 1,000 per query. You may need to adjust your search parameters or use GBIF directly to capture all the data you need in a single search.
 * Individual records can be selected on the map for more information
